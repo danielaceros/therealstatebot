@@ -1,7 +1,7 @@
 # therealstatebot
 A BOT who allows you to know if there are new flats in sold, in realstate pages such as FotoCasa, TuCasa, Habitaclia and Pisoscom, then it send to you a Telegram for notifying.
 # Getting Started
-Download de repo and install the necesary modules if you haven't done it before
+Download the repo and install the necesary modules if you haven't done it before
 * pip install requests
 * pip install re
 * pip install bs4
