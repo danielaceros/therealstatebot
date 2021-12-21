@@ -11,7 +11,7 @@ Download the repo and install the necesary modules if you haven't done it before
 * pip install tqdm
 * pip install socket
 # Changing TELEGRAM TOKEN
-Open the file 'realstatebot.py' and put your token on the variable 'token' and your chat id on the variable 'chat_id' at the top of the script
+Open the file 'realstatebot.py' and put your token on the variable 'token' and your chat id on the variable 'chat_id' at the top of the script.
 # Running Code
 Run the file with PowerShell or CommandPrompt on the running directory by
 * python realstatebot.py
