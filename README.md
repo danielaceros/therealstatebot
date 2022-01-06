@@ -16,14 +16,14 @@ A BOT who allows you to know if there are new flats in sold, in realstate pages 
 ## Getting Started
 Download the repo and install the necesary modules if you haven't done it before.
 ```bash
-pip install requests
-pip install re
-pip install bs4
-pip install time
-pip install datetime
-pip install threading
-pip install tqdm
-pip install socket
+pip/pip3 install requests
+pip/pip3 install re
+pip/pip3 install bs4
+pip/pip3 install time
+pip/pip3 install datetime
+pip/pip3 install threading
+pip/pip3 install tqdm
+pip/pip3 install socket
 ```
 ## Changing TELEGRAM TOKEN
 Open the file 'realstatebot.py' and put your token on the variable 'token' and your chat id on the variable 'chat_id' at the top of the script.
